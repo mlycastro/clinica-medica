@@ -1,4 +1,5 @@
 clinica\login\SessaoUsuario.class
+clinica\view\TelaFuncionario$5.class
 clinica\view\EditarUsuario.class
 clinica\view\ListarConvenio$4.class
 clinica\view\CadastrarConvenio$2.class
@@ -79,6 +80,7 @@ clinica\view\TelaLogin$5.class
 clinica\model\Consulta.class
 clinica\model\Convenio.class
 clinica\view\EditarPerfil$2.class
+clinica\view\TelaFuncionario$6.class
 clinica\view\EditarMedico.class
 clinica\view\EditarFuncionario.class
 clinica\view\MenuAdministrador.class
